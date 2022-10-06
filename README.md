@@ -17,5 +17,11 @@ HTML - builds and define the webpage structure.
 to link a html file...
 
     <script src="script.js"></script>
-    
+
 and you put this at the end of the body file
+____________________________________________
+
+HOUSE ANALOGY 
+HTML is the foundation of the house. without it, no site
+CSS makes it pretty. it's the decor and colour scheme basically - make it accessible btw!
+I'm going to guess JS is like the electricity? or the gas and mains stuff
