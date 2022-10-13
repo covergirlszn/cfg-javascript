@@ -29,3 +29,6 @@ I'm going to guess JS is like the electricity? or the gas and mains stuff
 
 _______________________________________________________________
 okay js is the brain of the site as it enables functionality....you can xombine variables using concatenation and interpolation.... i feel like i should know what those are...see w2
+
+DOM. document object module. due to dom we can change html of a site using js
+look at the dom tree for visualisation
