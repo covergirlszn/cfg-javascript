@@ -25,3 +25,7 @@ HOUSE ANALOGY
 HTML is the foundation of the house. without it, no site
 CSS makes it pretty. it's the decor and colour scheme basically - make it accessible btw!
 I'm going to guess JS is like the electricity? or the gas and mains stuff
+
+
+_______________________________________________________________
+okay js is the brain of the site as it enables functionality....you can xombine variables using concatenation and interpolation.... i feel like i should know what those are...see w2
