@@ -46,3 +46,4 @@ look at the dom tree for visualisation
 ---
 
 Id is used to identify diff elements. esp when doing with javascrip
+script goes at the end of the body....
