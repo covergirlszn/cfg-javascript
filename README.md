@@ -46,4 +46,9 @@ look at the dom tree for visualisation
 ---
 
 Id is used to identify diff elements. esp when doing with javascrip
-script goes at the end of the body....
+script goes at the end of the body...this is because it goes line by line so if you wereto put it at the top....
+with css and that, tht spo the monent you mention it then it runs the js. then the uncalled elements start bugging becaus eyou haven't finished running through the nhtml yet
+
+hencewise. put it at the bottonm
+
+like imagine a bottle with a hole at the top and before you use it you need to tape it. like before you run the site you need to run the html down define all ids and variables THEN get into the js. yeah
